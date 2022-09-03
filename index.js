@@ -1,7 +1,7 @@
 
   // Made By Social404 Do Not Leak!
   
-  // Libs
+  // Libs              
   const crypto = require("crypto")
   const puppeteer = require('puppeteer-extra')
   const StealthPlugin = require('puppeteer-extra-plugin-stealth')
